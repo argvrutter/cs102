@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CS102" Database="" Version="10.0.0">
+  <Project Name="hw" Path="uno/uno.project" Active="No"/>
+  <Project Name="practice" Path="practice/practice.project" Active="Yes"/>
+  <Project Name="hw6" Path="hw6/hw6.project" Active="No"/>
+  <Project Name="cases" Path="cases/cases.project" Active="No"/>
+  <Project Name="lecture" Path="lecture/lecture.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="hw" ConfigName="Debug"/>
+      <Project Name="practice" ConfigName="Debug"/>
+      <Project Name="hw6" ConfigName="Debug"/>
+      <Project Name="cases" ConfigName="Debug"/>
+      <Project Name="lecture" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="hw" ConfigName="Release"/>
+      <Project Name="practice" ConfigName="Release"/>
+      <Project Name="hw6" ConfigName="Release"/>
+      <Project Name="cases" ConfigName="Release"/>
+      <Project Name="lecture" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
